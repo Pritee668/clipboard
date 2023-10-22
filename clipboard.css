@@ -1,0 +1,33 @@
+.container{
+    height:400px;
+    width:600px;
+    background-color:blueviolet;
+    color:white;
+    margin:30px 200px;
+    text-align: justify;
+    padding:20px;
+    border-radius: 10px;
+   
+}
+p{
+    border: 2px solid yellow;
+}
+button:hover{
+    box-shadow: 2px 2px 2px 2px black;
+}
+button{
+    height:35;
+    width: 65px;
+    border-radius: 5px;
+    background-color: pink;
+    box-shadow: 2px 2px 1px 1px black;
+
+}
+.copied{
+    display: inline;
+    font-size: 20px;
+    visibility: hidden;
+}
+.displayP{
+    visibility: visible;
+}
